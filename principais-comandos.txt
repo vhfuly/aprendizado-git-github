@@ -37,3 +37,7 @@ git remote add origin "url do githug" (link do git com github)
 git push origin master ( subir um progeto no git)
 
 git pull origin master (baixar os arquivos do github)
+
+git config user.user "user name"  (adicionar usuario local)
+
+git config user.email "test@test.com" (adicionar email local)
